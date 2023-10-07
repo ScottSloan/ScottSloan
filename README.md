@@ -1,9 +1,7 @@
 ## Hey 👋, This is Scott Sloan
 
-- 🔭 I’m currently working on college entrance examination
 - 🌱 I’m currently learning Python and C#
 - 👯 I’m looking to collaborate on programming
-- 🤔 I’m looking for help with TensorFlow
 - 📫 How to reach me: blog, QQ or e-mail
 
 ## My GitHub Stats
