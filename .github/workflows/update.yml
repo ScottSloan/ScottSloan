@@ -4,8 +4,6 @@ on:
     # 每天 0:00 运行一次
     - cron: '0 0 * * *'
   workflow_dispatch:
-  branches:
-    - main
 
 jobs:
   update-profile:
