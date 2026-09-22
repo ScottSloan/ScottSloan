@@ -16,6 +16,7 @@ jobs:
 
       - name: Update Metrics
         uses: lowlighter/metrics@latest
+        timeout-minutes: 10
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ScottSloan
@@ -57,6 +58,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.scott-sloan.cn/feed/"
-          template: "[$date - $title]($url)"
-          date_format: "yyyy-mm-dd"
         
