@@ -11,3 +11,7 @@
 
 ## Hi there 👋
 ![Metrics](/github-metrics.svg)
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
