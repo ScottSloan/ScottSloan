@@ -1,8 +1,5 @@
-## Hey 👋, This is Scott Sloan
-
-- 🌱 I’m currently learning Python and C#
-- 👯 I’m looking to collaborate on programming
-- 📫 How to reach me: blog, QQ or e-mail
+## Hi there 👋
+![Metrics](/github-metrics.svg)
 
 ## My GitHub Stats
 <p align=left> <img src="https://komarev.com/ghpvc/?username=ScottSloan" alt="ScottSloan"/></p>
