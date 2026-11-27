@@ -56,6 +56,10 @@ jobs:
 
       - name: Sync Latest Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
+        # 博客站点在国内 CDN，runner 跨境访问偶尔超时，抓取失败不影响整个 run
+        continue-on-error: true
         with:
           feed_list: "https://www.scott-sloan.cn/feed/"
+          retry_count: 3
+          retry_wait_time: 15
         
